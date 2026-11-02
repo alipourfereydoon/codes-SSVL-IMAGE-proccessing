@@ -1,0 +1,6 @@
+{
+  "mean_spin_fidelity": 0.9889352359351222,
+  "delta_t_over_t_nominal": 0.15,
+  "formula": "F_S = clip(1 - 0.33*(deltaT/T)^2 + Gaussian noise, 0, 1)",
+  "seed": 7
+}
